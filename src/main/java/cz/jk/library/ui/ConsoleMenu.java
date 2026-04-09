@@ -1,5 +1,6 @@
 package cz.jk.library.ui;
 
+import cz.jk.library.interfaces.Searchable;
 import cz.jk.library.model.*;
 import cz.jk.library.service.JsonStorage;
 import cz.jk.library.service.LibraryService;

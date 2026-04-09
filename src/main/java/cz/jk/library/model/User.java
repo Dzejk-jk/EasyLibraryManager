@@ -1,5 +1,7 @@
 package cz.jk.library.model;
 
+import cz.jk.library.interfaces.Searchable;
+
 import java.util.ArrayList;
 import java.util.List;
 

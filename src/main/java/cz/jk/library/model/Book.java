@@ -3,6 +3,7 @@ package cz.jk.library.model;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
+import cz.jk.library.interfaces.Searchable;
 
 import java.time.LocalDate;
 

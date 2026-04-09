@@ -1,7 +1,7 @@
 package cz.jk.library.service;
 
 import cz.jk.library.model.Book;
-import cz.jk.library.model.Searchable;
+import cz.jk.library.interfaces.Searchable;
 import cz.jk.library.model.User;
 
 import java.util.ArrayList;
